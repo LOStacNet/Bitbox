@@ -6,6 +6,10 @@
 
 源开发环境为Arduino，这里开发环境是ESP-IDF。
 
+![IMG_20240829_130032_new](README/lo.jpg)
+
+![IMG_20240829_130043_new](README/menu.jpg)
+
 ## 开发环境
 
 硬件：像素盒子[开源链接](https://oshwhub.com/shukkkk/led-chu-mo-ban)
